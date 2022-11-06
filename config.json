@@ -1,0 +1,27 @@
+{
+    "TOKEN": "",
+    "GUILD_ID": "",
+    "ICON_URL": "",
+    "SERVER_NAME": "",
+    "toss": [
+        {
+            "TOSS_TOKEN": "",
+            "TOSS_ID": ""
+        }
+    ],
+    "database": [
+        {
+            "host": "localhost",
+            "user": "root",
+            "password": "",
+            "db": "vrpfx",
+            "port": "3306"
+        }
+    ],
+    "webhook": [
+        {
+            "CHARGE_LOG": "",
+            "BUY_LOG": ""
+        }
+    ]
+}
